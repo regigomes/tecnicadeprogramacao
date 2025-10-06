@@ -42,7 +42,7 @@ O projeto está organizado em pacotes:
 
 ## ⚙️Como Executar
 - Clone o repositório: git clone https://github.com/regigomes/tecnicadeprogramacao.git
-- Abra o projeto em uma IDE de sua preferencia (como IntelliJ ou Eclipse)
+- Abra o projeto em uma IDE de sua preferencia como IntelliJ, Eclipse ou VScode.
 - Execute a classe Main para simular o processo de venda.
 
 ---
